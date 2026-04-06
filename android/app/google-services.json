@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875475280636",
+    "project_id": "clinica-vida-app",
+    "storage_bucket": "clinica-vida-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875475280636:android:8e3fab5d2819f1d022ed79",
+        "android_client_info": {
+          "package_name": "com.example.clinica_vida_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEPA2vtzVhk7DRLHKFwLjhg8x1IAuZpF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
